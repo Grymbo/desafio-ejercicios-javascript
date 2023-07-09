@@ -5,3 +5,4 @@
 ### Temas que se incluyen
 
 + Constantes, variables y el uso de let
++ Funciones
